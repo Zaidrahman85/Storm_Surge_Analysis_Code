@@ -4,7 +4,7 @@ This is the code described in Al-Attabi et al. 2022 (submitted) contains scripts
 Zaid Al-Attabi, and Siddharth Narayan (2022, Aug 17). Analysis_Storm_Surge_Damages Code V1.0 (Version V1.0). Zenodo. http://doi.org/cc.cccc/zenodo.xxxxxxx
 
 - Method Citation:  
-Al-Attabi, Z.R., Y. Xu, G. Tso. And S. Narayan, 2022. The combined influence of wetland loss, coastal development and sea-level rise on storm surge damage: a case-study of Hurricane Ike. 2022 (submitted)
+Al-Attabi, Z.R., Y. Xu, G. Tso. And S. Narayan. The impacts of tidal wetland loss and coastal development on storm surge damages to people and property: a Hurricane Ike case-study. 2022 (submitted)
 
 Copyright 2022(c) Zaid Al-Attabi, and Siddharth Narayan 
 Storm_Surge_ Analysis _Code is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.

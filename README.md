@@ -17,9 +17,9 @@ You should have received a copy of the GNU General Public License along with thi
   It contains the data files used by BC_prep.m and Meteo_prep.m to create input data for model simulation. Also it contains data of flood depth, Land Cover and Land Use, and Property value to estimate storm surge damages using Damage_Fucntion.m  
 - Main Functions: 
  
-BC_prep.m,  
-Meteo_prep.m,  
-Damage_Fucntion.m,  
+Damage_Fucntion_LU_Updated.m,  
+Get_Damage_value.m,  
+Extract_maxflood_map.m  
 
 - Data Files (../data):
 

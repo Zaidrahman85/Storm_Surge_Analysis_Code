@@ -14,7 +14,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 - Storm_Surge_ Analysis _Code/data  
-  It contains the data files used by BC_prep.m and Meteo_prep.m to create input data for model simulation. Also it contains data of flood depth, Land Cover and Land Use, and Property value to estimate storm surge damages using Damage_Fucntion.m  
+  It contains the data files used by BC_prep.m and Meteo_prep.m to create input data for model simulation. Also it contains data of flood depth, Land Cover and Land Use, and Property value to estimate storm surge damages using Damage_Fucntion_LU_Updated.  
 - Main Functions: 
  
 Damage_Fucntion_LU_Updated.m,  
